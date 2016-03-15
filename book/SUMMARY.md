@@ -1,6 +1,8 @@
 # Summary
 
-* [Introduction](README.md)
+* [Welcome!](README.md)
+* [Getting Started](content/prework/getting-started.md)
+* [Required Software](content/prework/required_software/README.md)
 * [Prerequisites](content/prework/README.md)
     * [Programming Fundamentals](content/prework/fundamentals/README.md)
       * [What is a Variable?](content/prework/fundamentals/variable.md)
