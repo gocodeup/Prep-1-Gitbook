@@ -1,5 +1,7 @@
 # Prep 1 Gitbook
 
+[ ![Codeship Status for gocodeup/Prep-1-Gitbook](https://codeship.com/projects/8e4425c0-cd2b-0133-3aa4-7a44370e5504/status?branch=production)](https://codeship.com/projects/140502)
+
 This is the control and presentation layer for our first phase prep work.
 
 ## Initial Setup
